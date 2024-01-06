@@ -1,6 +1,6 @@
 {
-    "name": "flutter_05",
-    "short_name": "flutter_05",
+    "name": "task_todo",
+    "short_name": "task_todo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
